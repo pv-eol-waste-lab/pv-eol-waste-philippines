@@ -1,0 +1,68 @@
+plant_id,facility,connection,mwdc,municipality,province,region,island,cod_year,commission_date,coords,note
+PV_LZ_01,CALATAGAN SOLAR,Grid,63.3,Calatagan / Balayan,Batangas,IV-A,Luzon,2016,Mar-2016,"13°55'22.19""N, 120°39'40.29""E",
+PV_LZ_02,CLARK SOLAR,Grid,22.3,Mabalacat,Pampanga,III,Luzon,2016,Mar-2016,"15°13'39.54""N, 120°33'29.43""E",
+PV_LZ_03,CONCEPCION 1 SOLAR – Phase 1,Grid,23.1,Concepcion,Tarlac,III,Luzon,2019,Sep-2019,"15°22'21.97""N, 120°36'40.98""E",
+PV_LZ_04,CONCEPCION 1 SOLAR – Phase 2,Grid,76.9,Concepcion,Tarlac,III,Luzon,2020,Feb-2020,"15°22'50.29""N, 120°36'30.32""E",
+PV_LZ_05,CURRIMAO SOLAR,Grid,20.0,Currimao,Ilocos Norte,I,Luzon,2016,Feb-2016,"18° 2'58.57""N, 120°29'14.83""E",
+PV_LZ_06,MARIVELES SOLAR,Grid,18.0,Mariveles,Bataan,III,Luzon,2017,Feb-2017,"14°27'3.49""N, 120°32'7.96""E",
+PV_LZ_07,PETROSOLAR,Grid,50.07,Tarlac City,Tarlac,III,Luzon,2016,Feb-2016,"15°26'53.63""N, 120°38'34.18""E",
+PV_LZ_08,PETROSOLAR 2,Grid,20.0,Tarlac City,Tarlac,III,Luzon,2021,Dec-2021,"15°26'44.45""N, 120°38'30.32""E",
+PV_LZ_09,"STA. RITA SOLAR (Phase I, II and 3A)",Grid,62.4,Subic,Zambales,III,Luzon,2016,Apr 2016 / Mar 2017 / Aug 2021,"14°47'20.04""N, 120°21'40.32""E",Subic Bay Freeport Zone plant aggregated under Zambales (host municipality Subic).
+PV_LZ_10,STA. RITA SOLAR (Phase 3B),Grid,38.1,Subic,Zambales,III,Luzon,2022,Nov-2022,"14°47'0.60""N, 120°21'50.76""E",Subic Bay Freeport Zone plant aggregated under Zambales (host municipality Subic).
+PV_LZ_11,YH GREEN,Grid,14.5,Hermosa,Bataan,III,Luzon,2016,Feb-2016,"14°49'55.58""N, 120°26'55.12""E",
+PV_LZ_12,PFBSI (First Bulacan Solar),Grid,80.9,San Miguel,Bulacan,III,Luzon,2021,May-2021,"15° 8'15.72""N, 120°59'56.04""E",
+PV_LZ_13,TAGALAG SOLAR,Grid,16.0,Valenzuela City,Metro Manila,NCR,Luzon,2021,May-2021,"14°43'29.07""N, 120°56'21.29""E",
+PV_LZ_14,GIGASOL3 SOLAR,Grid,63.0,Palauig,Zambales,III,Luzon,2021,Jul-2021,"15°26'38.00""N, 119°56'58.59""E",
+PV_LZ_15,ALAMINOS SOLAR,Grid,120.3,Alaminos,Laguna,IV-A,Luzon,2022,Sep-2022,"14° 3'59.67""N, 121°13'37.11""E",
+PV_LZ_16,STA. ROSA SOLAR,Grid,60.1,Concepcion,Tarlac,III,Luzon,2021,Sep-2021,"15°22'41.95""N, 120°36'46.06""E",
+PV_LZ_17,BATAAN SOLAR ENERGY PROJECT,Grid,4.4,Mariveles,Bataan,III,Luzon,2022,Jun-2022,"14°29'40.31""N, 120°35'53.16""E",
+PV_LZ_18,ARAYAT–MEXICO SOLAR POWER PLANT (Phase 1),Grid,72.0,Arayat,Pampanga,III,Luzon,2022,Jul-2022,"15° 9'58.75""N, 120°40'55.70""E",
+PV_LZ_19,ARAYAT–MEXICO SOLAR POWER PLANT (Phase 2),Grid,43.7,Arayat / Mexico,Pampanga,III,Luzon,2023,"Oct 26, 2023 (PAO)","15° 9'58.75""N, 120°40'55.70""E",
+PV_LZ_20,ARMENIA SOLAR,Embedded,8.8,Tarlac City,Tarlac,III,Luzon,2016,Aug-2016,"15°26'4.74""N, 120°32'46.04""E",
+PV_LZ_21,BULACAN III SOLAR,Embedded,15.0,San Ildefonso,Bulacan,III,Luzon,2016,Mar-2016,"15° 0'21.60""N, 121° 1'46.32""E",
+PV_LZ_22,BURGOS SOLAR PH 1,Embedded,4.1,Burgos,Ilocos Norte,I,Luzon,2015,Mar-2015,"18°31'34.64""N, 120°38'16.97""E",
+PV_LZ_23,BURGOS SOLAR PH 2,Embedded,2.7,Burgos,Ilocos Norte,I,Luzon,2016,Jan-2016,"18°31'34.64""N, 120°38'16.97""E",
+PV_LZ_24,CABANATUAN SOLAR,Embedded,10.3,Cabanatuan City,Nueva Ecija,III,Luzon,2016,Mar-2016,"15°29'47.53""N, 120°59'27.62""E",
+PV_LZ_25,DALAYAP SOLAR,Embedded,7.5,Tarlac City,Tarlac,III,Luzon,2016,Aug-2016,"15°32'12.68""N, 120°36'47.44""E",
+PV_LZ_26,ECOPARK ISLA SOLAR,Embedded,4.7,Valenzuela City,Metro Manila,NCR,Luzon,2020,Jan-2020,"14°42'17.38""N, 120°57'3.65""E",
+PV_LZ_27,LIAN SOLAR,Embedded,2.0,Lian,Batangas,IV-A,Luzon,2016,Mar-2016,"14° 2'38.71""N, 120°39'54.59""E",
+PV_LZ_28,MORONG SOLAR,Embedded,5.0,Morong,Bataan,III,Luzon,2017,2017,"14°41'27.42""N, 120°15'58.73""E",
+PV_LZ_29,PALAUIG SOLAR,Embedded,5.0,Palauig,Zambales,III,Luzon,2016,Mar-2016,"15°26'26.07""N, 119°59'10.94""E",
+PV_LZ_30,RASLAG PH 1,Embedded,10.0,Mexico,Pampanga,III,Luzon,2015,Feb-2015,"15° 8'3.27""N, 120°38'15.36""E",
+PV_LZ_31,RASLAG PH 2,Embedded,13.1,Mexico,Pampanga,III,Luzon,2015,Dec-2015,"15° 8'3.27""N, 120°38'15.36""E",
+PV_LZ_32,SAN RAFAEL SOLAR,Embedded,3.8,San Rafael,Bulacan,III,Luzon,2017,Nov-2017,"15° 0'27.27""N, 120°58'23.60""E",
+PV_LZ_33,SARRAT SOLAR,Embedded,1.0,Sarrat,Ilocos Norte,I,Luzon,2018,Mar-2018,"18° 8'8.21""N, 120°40'35.67""E",
+PV_LZ_34,VALENZUELA SOLAR,Embedded,8.5,Valenzuela City,Metro Manila,NCR,Luzon,2016,Mar-2016,"14°42'11.11""N, 120°57'12.02""E",
+PV_LZ_35,RASLAG III,Grid,18.0,Mabalacat / Magalang,Pampanga,III,Luzon,2023,15 Mar 2023 (PAO),"15°11'37.83""N, 120°37'35.12""E",
+PV_LZ_36,STA. BARBARA PH 1,Embedded,10.0,Sta. Barbara,Pangasinan,I,Luzon,2022,Nov-2022,"16° 0'11.12""N, 120°27'13.68""E",
+PV_LZ_37,STA. BARBARA PH 2,Embedded,10.0,Sta. Barbara,Pangasinan,I,Luzon,2023,10 Mar 2023 (PAO),"16° 0'11.12""N, 120°27'13.68""E",
+PV_LZ_38,CURRIMAO 2 SPP,Grid,83.3,Currimao,Ilocos Norte,I,Luzon,2023,26 Oct 2023 (PAO Issuance),"18° 3'5.20""N, 120°29'7.48""E",
+PV_LZ_39,TRUST SPP,Grid,20.9,Mabalacat City,Pampanga,III,Luzon,2024,Mar-2024,"15°14'20.55""N, 120°36'45.93""E",
+PV_LZ_40,PINUGAY SPP PH 1 & 2,Embedded,113.8,Baras,Rizal,IV-A,Luzon,2024,Mar 2024 (PAO); Oct 2024 (Amended PAO),"14°34'49.05""N, 121°17'11.04""E",
+PV_LZ_41,CAYANGA-BUGALLON SPP,Grid,94.7,Bugallon,Pangasinan,I,Luzon,2024,Jul-2024 (PAO),"15°56'22.30""N, 120° 8'1.73""E","Location corrected Bakun, Benguet (CAR) -> Bugallon, Pangasinan (Region I); matches coordinates and project name."
+PV_LZ_42,SAN MARCELINO PH 1 & 2,Grid,384.8,San Marcelino,Zambales,III,Luzon,2024,Jul-2024 (PAO); Sept 2024 (COD),"15° 0'47.31""N, 120°14'57.36""E",
+PV_LZ_43,CALABANGA SPP,Grid,74.1,Calabanga,Camarines Sur,V,Luzon,2024,Sep-2024 (PAO),"13°43'52.27""N, 123°15'10.69""E",
+PV_LZ_44,CAGAYAN NORTH SPP,Grid,133.5,Lal-lo,Cagayan,II,Luzon,2024,Oct-2024,"18° 7'18.12""N, 121°42'54.72""E",
+PV_LZ_45,ORION SPP,Grid,20.4,Orion,Bataan,III,Luzon,2024,Oct-2024,"14°35'14.30""N, 120°34'13.36""E",
+PV_LZ_46,LAOAG SPP PH 1 & 2,Grid,159.0,Aguilar,Pangasinan,I,Luzon,2024,Dec-2024,"15°50'46.32""N, 120°13'2.64""E",
+PV_LZ_47,TANAUAN SPP,Grid,64.1,Tanauan,Batangas,IV-A,Luzon,2025,Feb-2025,"14° 9'3.60""N, 121° 5'12.48""E",
+PV_LZ_48,MARAGONDON SPP,Grid,64.6,Maragondon,Cavite,IV-A,Luzon,2025,Feb-2025,"14°14'42.84""N, 120°47'9.39""E",
+PV_VS_01,COSMO SOLAR,Grid,5.7,Miag-ao,Iloilo,VI,Visayas,2016,Jun-2016,"10°36'52.85""N, 122°10'4.42""E",
+PV_VS_02,FIRST TOLEDO SOLAR,Grid,60.0,Toledo City,Cebu,VII,Visayas,2017,Jun-2017,"10°24'53.46""N, 123°40'25.33""E",
+PV_VS_03,HELIOS,Grid,132.5,Cadiz City,Negros Occidental,NIR,Visayas,2016,Mar-2016,"10°55'28.92""N, 123°17'50.28""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_04,ISLASOL II,Grid,32.0,La Carlota City,Negros Occidental,NIR,Visayas,2016,Mar-2016,"10°25'13.44""N, 122°56'11.76""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_05,ISLASOL III,Grid,48.1,Manapla,Negros Occidental,NIR,Visayas,2016,Mar-2016,"10°56'34.80""N, 123°10'1.20""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_06,MONTESOL,Grid,18.0,Bais City,Negros Oriental,NIR,Visayas,2016,Mar-2016,"9°38'9.96""N, 123° 5'45.60""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_07,SACASOL I - A,Grid,13.0,San Carlos City,Negros Occidental,NIR,Visayas,2014,May-2014,"10°30'57.96""N, 123°26'6.36""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_08,SACASOL I - B,Grid,9.0,San Carlos City,Negros Occidental,NIR,Visayas,2014,Aug-2014,"10°30'57.96""N, 123°26'6.36""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_09,SACASOL I - C & D,Grid,23.0,San Carlos City,Negros Occidental,NIR,Visayas,2015,Sep-2015,"10°31'22.80""N, 123°25'50.52""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_10,SACASUN,Grid,59.0,San Carlos City,Negros Occidental,NIR,Visayas,2016,Mar-2016,"10°30'50.76""N, 123°25'31.80""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_11,SEPALCO,Grid,49.8,Palo,Leyte,VIII,Visayas,2016,Oct-2016,"11° 8'12.48""N, 124°55'2.28""E",
+PV_VS_12,SILAY SOLAR,Grid,25.0,Silay City,Negros Occidental,NIR,Visayas,2016,Apr-2016,"10°48'19.80""N, 122°59'33.00""E","Region updated to Negros Island Region (RA 12000, 2024)."
+PV_VS_13,SOLEQ (First Solar Energy Corp),Grid,30.4,Ormoc City,Leyte,VIII,Visayas,2015,Apr-2015,"11° 5'12.48""N, 124°38'3.12""E",
+PV_MD_01,Digos,Grid,28.6,Digos City,Davao del Sur,XI,Mindanao,2016,Mar-2016,"6°46'20.15""N, 125°17'4.05""E",
+PV_MD_02,Kibawe,Grid,10.5,Kibawe,Bukidnon,X,Mindanao,2016,Mar-2016,"7°33'16.25""N, 124°58'12.18""E",
+PV_MD_03,Centralla,Embedded,6.2,Surallah,South Cotabato,XII,Mindanao,2015,Dec-2015,"6°19'58.79""N, 124°44'35.36""E",
+PV_MD_04,CEPALCO,Embedded,1.0,Cagayan de Oro,Misamis Oriental,X,Mindanao,2004,Sep-2004,"8°26'9.64""N, 124°39'37.08""E",
+PV_MD_05,Kirahon,Embedded,12.5,Villanueva,Misamis Oriental,X,Mindanao,2015,Oct-2015,"8°33'21.31""N, 124°47'13.86""E",
+PV_MD_06,DGI (Astronergy Development Gensan),Embedded,25.0,General Santos City,South Cotabato,XII,Mindanao,2019,Dec-2019,"5°58'37.20""N, 125° 4'8.40""E",

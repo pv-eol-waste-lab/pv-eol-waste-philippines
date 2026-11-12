@@ -1,0 +1,99 @@
+coa_no,project,province,municipality,province_alloc,island,date_awarded,award_year,capacity_mw
+SCOA 2025-01-002,Owaog PV Power Plant,Zambales,Botolan,Zambales,Luzon,31-Jan-25,2025,338.8
+SCOA 2025-01-003,Murcia Solar Power Project,Negros Occidental,Murcia,Negros Occidental,Visayas,31-Jan-25,2025,86.03
+SCOA 2025-02-005,San Vicente Clark Solar Power Project,Pampanga,Mabalacat,Pampanga,Luzon,26-Mar-25,2025,149.6
+SCOA 2025-02-006,Talahiron Solar Power Project,Bukidnon,Kibawe,Bukidnon,Mindanao,25-Feb-25,2025,49.984
+SCOA 2025-02-007,Polanco Solar Power Project,Zamboanga del Norte,Polanco,Zamboanga del Norte,Mindanao,25-Feb-25,2025,49.984
+SCOA 2025-02-011,Hermosa 1 Solar Power Project,Pampanga and Bataan,Hermosa and Lubao,Pampanga;Bataan,Luzon,7-Mar-25,2025,49.8
+SCOA 2025-03-008,Bukidnon Solar Power Project,Bukidnon,Quezon,Bukidnon,Mindanao,25-Mar-25,2025,125.4
+SCOA 2025-03-012,Cadiz 1 Solar Power Plant,Negros Occidental,Cadiz City,Negros Occidental,Visayas,24-Mar-25,2025,34.24
+SCOA 2025-03-013,Barotac Solar Power Project,Iloilo,Barotac Viejo,Iloilo,Visayas,13-Mar-25,2025,49.867
+SCOA 2025-03-014,Isabel Solar Power Project,Leyte,Isabel,Leyte,Visayas,14-Mar-25,2025,76.65
+SCOA 2025-03-015,Mariveles Solar Power Project,Bataan,Mariveles,Bataan,Luzon,14-Mar-25,2025,50.0
+SCOA 2025-03-016,Bataan Solar Power Project,Bataan,Mariveles,Bataan,Luzon,27-Mar-25,2025,19.8
+SCOA 2025-04-019,Aleosan Solar Power Project,Cotabato,Aleosan and Midsayap,Cotabato,Mindanao,16-Apr-25,2025,5.0
+SCOA 2025-04-021,EEI Solar Power Inc. Solar Power Project,Bataan,Hermosa,Bataan,Luzon,25-Apr-25,2025,63.9
+SCOA 2025-04-022,Iligan Solar Power Project,Lanao del Norte,Iligan City,Lanao del Norte,Mindanao,23-Apr-25,2025,10.0
+SCOA 2025-04-023,San Juan Solar Power Project,Nueva Ecija,San Jose City,Nueva Ecija,Luzon,29-Apr-25,2025,30.0
+SCOA 2025-04-024,Anilao Solar Power Plant - Phase 1,Iloilo,Anilao,Iloilo,Visayas,30-Apr-25,2025,4.8
+SCOA 2025-04-025,Anilao Solar Power Plant - Phase 2,Iloilo,Anilao,Iloilo,Visayas,25-Apr-25,2025,6.6
+SCOA 2025-04-027,Panitan Solar Power Project,Capiz,Panitan,Capiz,Visayas,7-May-25,2025,80.0
+SCOA 2025-04-029,Earthlight* San Fernando Barotac Viejo Solar Power,Iloilo,Barotac Viejo,Iloilo,Visayas,7-May-25,2025,150.0
+SCOA 2025-05-030,Pagayawan Solar Power Plant Project,Lanao del Norte,Bacolod,Lanao del Norte,Mindanao,14-May-25,2025,24.96
+SCOA 2025-05-032,Bolinao Solar Power Plant,Pangasinan,Bolinao,Pangasinan,Luzon,28-May-25,2025,33.28
+SCOA 2025-05-033,San Rafael Solar Power Project,Iloilo,San Rafael,Iloilo,Visayas,21-May-25,2025,100.0
+SCOA 2025-05-034,La Fortuna BV Solar Power Project,Iloilo,Barotac Viejo,Iloilo,Visayas,20-May-25,2025,112.2
+SCOA 2025-05-036,Cauayan Solar Power Project,Isabela,City of Cauayan and Naguilian,Isabela,Luzon,23-May-25,2025,779.057
+SCOA 2025-05-037,Ramon Solar Power Project,Isabela,Cordon and Isabela,Isabela,Luzon,28-May-25,2025,49.5
+SCOA 2025-05-039,Pitogo Solar PV Power Plant,Quezon,Pitogo,Quezon,Luzon,28-May-25,2025,10.0
+SCOA 2025-05-042,Earthlight Concepcion Solar Power Project,Iloilo,Concepcion,Iloilo,Visayas,26-May-25,2025,30.4
+SCOA 2025-05-038,Ascent 5.00 MWAC Libona Solar Power Project,Bukidnon,Libona,Bukidnon,Mindanao,30-May-25,2025,5.0
+SCOA 2025-05-041,Mabiga Energy Corp. Solar Power Project,Bataan,"Hermosa, Bataan",Bataan,Luzon,29-May-25,2025,145.8
+SCOA 2025-05-045,Balesin Island Solar-Battery Hybrid Project,Quezon,Polillo,Quezon,Luzon,11-Jun-25,2025,2.88
+SCOA 2025-06-048,Power3 Binuangan Solar Power Plant Project,Davao de Oro,Maco,Davao de Oro,Mindanao,13-Jun-25,2025,149.8
+SCOA 2025-06-049,Isabela Solar Power Project,Isabela and Nueva Vizcaya,Cordon and Diadi,Isabela;Nueva Vizcaya,Luzon,9-Jun-25,2025,650.1
+SCOA 2025-06-050,SCC-1 Solar Power Project,Tarlac,Victoria,Tarlac,Luzon,20-Jun-25,2025,12.0
+SCOA 2025-06-051,Pagbilao 3 Solar Power Project Project,Quezon,Pagbilao,Quezon,Luzon,9-Jun-25,2025,110.1
+SCOA 2025-06-052,Bolbok 5 Solar Power Project,Batangas,Tuy,Batangas,Luzon,9-Jun-25,2025,150.0
+SCOA 2025-06-053,Power2 Concepcion Solar Power Plant Project,Davao de Oro,Maco,Davao de Oro,Mindanao,19-Jun-25,2025,149.8
+SCOA 2025-06-054,Silay 2D Solar Power Project,Negros Occidental,Silay City,Negros Occidental,Visayas,9-Jun-25,2025,36.9
+SCOA 2025-06-055,Bolbok 4 Solar Power Project,Batangas,Tuy,Batangas,Luzon,9-Jun-25,2025,150.0
+SCOA 2025-06-056,Lal-lo Solar Power Project,Cagayan,Lal-lo,Cagayan,Luzon,19-Jun-25,2025,117.0
+SCOA 2025-06-058,Lal-lo 1A Solar Power Project,Cagayan,Lal-lo,Cagayan,Luzon,9-Jun-25,2025,100.2
+SCOA 2025-06-059,Silay 2C Solar Power Project,Negros Occidental,Silay City,Negros Occidental,Visayas,9-Jun-25,2025,70.2
+SCOA 2025-06-060,Toledo Phase 2 Solar Power Project,Cebu,Balamban and Toledo City,Cebu,Visayas,9-Jun-25,2025,70.2
+SCOA 2025-06-061,Bolbok 3 Solar Power Project,Batangas,Tuy,Batangas,Luzon,9-Jun-25,2025,150.0
+SCOA 2025-06-062,Pagbilao 4 Solar Power Project Project,Quezon,Pagbilao,Quezon,Luzon,9-Jun-25,2025,75.0
+SCOA 2025-06-063,Sarangani Solar Power Project,Sarangani,Alabel,Sarangani,Mindanao,2-Jul-25,2025,240.9
+SCOA 2025-06-069,Mexico Solar Power Project,Pampanga,Mexico,Pampanga,Luzon,10-Jul-25,2025,36.9
+SCOA 2025-06-070,Dumanjug Solar Power Project,Cebu,Dumanjug,Cebu,Visayas,20-Jun-25,2025,147.84
+SCOA 2025-06-073,Malita Solar Power Project,Davao Occidental,Malita,Davao Occidental,Mindanao,4-Jul-25,2025,237.5
+SCOA 2025-06-074,Angat Solar Power Project,Bulacan,Doña Remedios Trinidad and Norzagaray,Bulacan,Luzon,4-Jul-25,2025,885.0
+SCOA 2025-06-075,Paoay Solar Power Project,Ilocos Norte,Paoay,Ilocos Norte,Luzon,4-Jul-25,2025,93.75
+SCOA 2025-06-076,Gerona Tarlac Solar Power Project,Tarlac,Gerona,Tarlac,Luzon,9-Jul-25,2025,10.0
+SCOA 2025-06-077,San Esteban Solar Power Energy Project,Ilocos Sur,San Esteban and Santiago,Ilocos Sur,Luzon,16-Jul-25,2025,94.71
+SCOA 2025-07-080,Hermosa Solar Power Project - Phase 1,Bataan,Hermosa,Bataan,Luzon,10-Jul-25,2025,74.1
+SCOA 2025-07-081,Negro Solar Farm,Bulacan,Santa Maria,Bulacan,Luzon,21-Jul-25,2025,2.88
+SCOA 2025-07-082,Balanok 3 Ground Mount Solar Farm,Bulacan,Santa Maria,Bulacan,Luzon,21-Jul-25,2025,2.4
+SCOA 2025-07-087,Hermosa Solar Power Plant - Phase 2,Bataan,Hermosa and Dinalupihan,Bataan,Luzon,18-Aug-25,2025,45.9
+SCOA 2025-08-065,Mauway Solar Farm,Bulacan,Doña Remedios Trinidad,Bulacan,Luzon,14-Aug-25,2025,4.32
+SCOA 2025-08-088,Anilao Solar Power Project,Iloilo,Anilao,Iloilo,Visayas,15-Aug-25,2025,140.8
+SCOA 2025-08-089,Alfonso Lista Solar Power Project,Ifugao,Alfonso Lista,Ifugao,Luzon,27-Aug-25,2025,50.05
+SCOA 2025-08-090,Pasong Lingco Solar Farm,Bulacan,San Rafael,Bulacan,Luzon,19-Aug-25,2025,4.56
+SCOA 2025-08-091,Tagkawayan Solar Power Project (Phase 1),Quezon,Tagkawayan,Quezon,Luzon,29-Aug-25,2025,49.92
+SCOA 2025-08-092,San Esteban Solar Power Energy Project P3,Ilocos Sur,San Esteban and Santiago,Ilocos Sur,Luzon,27-Aug-25,2025,126.28
+SCOA 2025-08-093,Pulo Solar Farm,Bulacan,San Rafael and Doña Remedios Trinidad,Bulacan,Luzon,29-Aug-25,2025,3.6
+SCOA 2025-08-094,Naga Solar Power Project I,Zamboanga Sibugay,Ipil,Zamboanga Sibugay,Mindanao,4-Sep-25,2025,49.2
+SCOA 2025-08-095,Bawing Solar Power Project,South Cotabato,General Santos City,South Cotabato,Mindanao,29-Aug-25,2025,269.233
+SCOA 2025-08-096,Iba Solar Power Project,Zambales,Palauig and Iba,Zambales,Luzon,4-Sep-25,2025,45.0
+SCOA 2025-09-097,MSpectrum Taytay Solar Power Project,Rizal,Taytay,Rizal,Luzon,10-Sep-25,2025,4.08
+SCOA 2025-09-098,San Jose Solar Power Plant - Phase 1,Bukidnon,Quezon,Bukidnon,Mindanao,10-Sep-25,2025,67.9
+SCOA 2025-09-099,Bonjour Soleil Solar POwer Project,Negros Occidental,Cadiz City,Negros Occidental,Visayas,15-Sep-25,2025,85.925
+SCOA 2025-09-100,Tagbilaran Solar Power Plant,Bohol,Tagbilaran City and Baclayon,Bohol,Visayas,23-Sep-25,2025,8.4
+SCOA 2025-09-102,San Jose Solar Power Plant - Phase 2,Bukidnon,Quezon,Bukidnon,Mindanao,25-Sep-25,2025,38.85
+SCOA 2025-09-103,Iguig Solar Power Project,Cagayan,Peñablanca,Cagayan,Luzon,3-Oct-25,2025,134.375
+SCOA 2025-09-104,Cacao Solar Power Plant,Davao del Norte,City of Panabo,Davao del Norte,Mindanao,8-Oct-25,2025,19.8
+SCOA 2025-09-105,Lupao Solar Power Project,Nueva Ecija,San Jose City,Nueva Ecija,Luzon,13-Oct-25,2025,10.2
+SCOA 2025-10-107,Caliraya Lake Floating Solar Photovoltaic Power Project,Laguna,Lumban,Laguna,Luzon,20-Oct-25,2025,90.0
+SCOA 2025-10-108,Kasilak Solar Power Plant,Davao del Norte,City of Panabo,Davao del Norte,Mindanao,14-Oct-25,2025,35.2
+SCOA 2025-10-109,Upgrade Matanao Solar Power Project,Davao de Oro,Matanao,Davao de Oro,Mindanao,20-Oct-25,2025,14.0
+SCOA 2025-10-110,Upgrade Siquijor Solar Power Project,Siquijor,Lazi,Siquijor,Visayas,20-Oct-25,2025,13.0
+SCOA 2025-10-111,Bolo Solar Power Project,Pangasinan,Labrador,Pangasinan,Luzon,20-Oct-25,2025,3.1
+SCOA 2025-10-112,Upgrade Zamboanga 3 Solar Power Project,Zamboanga del Sur,Zamboanga City,Zamboanga del Sur,Mindanao,29-Oct-25,2025,22.3
+SCOA 2025-10-113,Tabango Solar Project,Leyte,Tabango,Leyte,Visayas,22-Oct-25,2025,49.92
+SCOA 2025-10-114,Solar Farm in ZAMBOECOZONE,Zamboanga del Sur,Zamboanga City,Zamboanga del Sur,Mindanao,26-Nov-25,2025,5.44
+SCOA 2025-10-116,Upgrade Zamboanga 1 Solar Power Project,Zamboanga Sibugay,Naga,Zamboanga Sibugay,Mindanao,13-Nov-25,2025,110.0
+SCOA 2025-10-118,Paldo CT Solar Power Project,Tarlac,Concepcion,Tarlac,Luzon,11-Nov-25,2025,49.92
+SCOA 2025-11-119,Upgrade Nabunturan Solar Power Project,Davao de Oro,Nabunturan,Davao de Oro,Mindanao,18-Nov-25,2025,28.0
+SCOA 2025-11-120,CCRPC Solar Power Project,Negros Occidental,La Carlota City,Negros Occidental,Visayas,21-Nov-25,2025,302.456
+SCOA 2025-11-121,Dumanjug Solar Power Project.,Cebu,Dumanjug,Cebu,Visayas,13-Nov-25,2025,200.0
+SCOA 2025-11-122,San Riz Solar Power Project,Negros Occidental,Cadiz City,Negros Occidental,Visayas,20-Nov-25,2025,202.783
+SCOA 2025-11-123,Sigma Solar Power Project,Capiz,Sigma,Capiz,Visayas,28-Nov-25,2025,49.5
+SCOA 2025-11-124,Upgrade Zamboanga 2 Solar Power Project,Zamboanga Sibugay,Naga,Zamboanga Sibugay,Mindanao,21-Nov-25,2025,110.0
+SCOA 2025-11-125,East Coast Solar Photovoltaic Power Plant,Bataan,Samal,Bataan,Luzon,2-Dec-25,2025,5.0
+SCOA 2025-11-126,Apalit Fishery Solar Power Project,Pampanga,Apalit,Pampanga,Luzon,18-Dec-25,2025,49.999
+SCOA 2025-11-133,Bacnotan Solar Power Project,La Union,Bacnotan,La Union,Luzon,5-Dec-25,2025,49.5
+SCOA 2025-12-136,Estancia Calapdan Solar Power Project,Iloilo,Estancia,Iloilo,Visayas,18-Dec-25,2025,4.9
+SCOA 2025-12-137,San Dionisio Solar Power Project,Iloilo,San Dionisio,Iloilo,Visayas,18-Dec-25,2025,49.8
+SCOA 2025-12-141,Dingle Solar Power Plant,Iloilo,Dingle,Iloilo,Visayas,15-Dec-25,2025,49.99
+SCOA 2025-12-146,Carmencita Solar Power Project,Pampanga,Floridablanca,Pampanga,Luzon,16-Dec-25,2025,49.999
